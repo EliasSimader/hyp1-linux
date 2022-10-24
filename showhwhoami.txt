@@ -1,0 +1,1 @@
+This file is used to show, how the email and name works when files are committed.
